@@ -40,3 +40,4 @@ go run client/main.go
 3. Follow the prompts to play
 
 ## Author
+[varomnrg](https://github.com/varomnrg)
