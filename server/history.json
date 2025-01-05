@@ -1,0 +1,15 @@
+[
+    {
+        "game_id": "a79eef44-fdf2-4f2a-82ff-25d1bc0aeecb",
+        "player1": "Player1",
+        "player2": "Player2",
+        "winner": "X",
+        "finished": true,
+        "board": [
+            ["X", "O", "X"],
+            ["", "O", "X"],
+            ["O", "", "X"]
+        ]
+    }
+]
+
